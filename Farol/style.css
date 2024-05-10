@@ -44,6 +44,7 @@ button:active{
     border: 5px solid gray;
     border-radius: 50%;
     box-shadow: inset 0px 0px 45px 0px rgba(0, 0, 0, 0.8);
+    background-color: #141414;
 }
 .vermelho{
     background-color: rgb(252, 94, 94);
@@ -53,7 +54,4 @@ button:active{
 }
 .verde{
     background-color: rgb(89, 236, 89);
-}
-.off{
-    background-color: #141414;
 }
